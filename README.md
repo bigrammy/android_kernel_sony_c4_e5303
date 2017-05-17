@@ -1,1 +1,0 @@
-# android_kernel_sony_c4_e5303
