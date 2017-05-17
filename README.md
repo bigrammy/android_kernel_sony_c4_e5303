@@ -1,1 +1,1 @@
-# Open source download for Xperia™ C4, software version 27.3.A.0.122; Xperia™ C4 Dual, software version 27.3.B.0.122; Xperia™ C5 Ultra, software version 29.2.A.0.122; Xperia™ C5 Ultra Dual, software version 29.2.B.0.122 
+Open source download for Xperia™ C4, software version 27.3.A.0.122; Xperia™ C4 Dual, software version 27.3.B.0.122; Xperia™ C5 Ultra, software version 29.2.A.0.122; Xperia™ C5 Ultra Dual, software version 29.2.B.0.122 
